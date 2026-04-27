@@ -26,10 +26,24 @@ You can also find paid version of my plugins that offer even more configuration 
 > Check the latest update to each plugin and you can find the latest supported version.
 
 ## License
-Copyright (c) 2026 Eric Valladares
+Copyright (c) 2026 Eric Valladares. All rights reserved.
+Permitted Uses (No Permission Required)
+You may view and use this work for personal, non-commercial purposes only. No other rights are granted without prior written permission from the copyright holder.
+Restrictions
+Without prior written permission from the copyright holder, you may not:
 
-All rights are reserved.
+Reproduce, copy, or distribute this work in whole or in part;
+Modify, adapt, translate, or create derivative works based on this work;
+Use this work for any commercial purpose or for any public display;
+Sublicense, sell, rent, lease, or transfer rights to this work.
 
-No part of this work may be reproduced, distributed, modified, or used in any form or by any means without prior written permission from the copyright holder.
-
-The work is provided “as is” without warranty of any kind. The copyright holder is not liable for any damages arising from its use or misuse.
+Requesting Permission
+To request permission for uses not covered above, contact the copyright holder directly.
+Termination
+Any use of this work in violation of these terms automatically and immediately terminates any rights granted herein.
+Disclaimer of Warranties
+This work is provided "as is," without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+Limitation of Liability
+In no event shall the copyright holder be liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use this work, even if advised of the possibility of such damages.
+Governing Law
+This license shall be governed by and construed in accordance with the laws of the United States.
