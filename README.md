@@ -16,7 +16,7 @@ Consider [donating](https://ko-fi.com/jammingcat21)!
 - SwappedDimensions
 
 ## Paid Plugins
-You can also find paid version of my plugins that offer even more configuration and custimization.
+You can also find paid version of my plugins that offer even more configuration and customization.
 - TBD
 
 ## FAQ
